@@ -1,0 +1,75 @@
+"name","description","price","category","allergenes"
+"Prosciutto e Melone",,9,"Antipasti",
+"Bresaola, Rucola, Grana e Noci",,9,"Antipasti",8
+"Caprese","(Mozzarella, Pomodoro, Basilico)",9,"Antipasti",7
+"Bufala con Alici, Songino e Pomodorini",,12,"Antipasti","4, 7"
+"Piatto freddo del giorno ","(Pasta / Riso / Farro secondo disponibilità)",9,"Primi",4
+"Tortellino alla Boscaiola",,10,"Primi",1
+"Ravioli al Pomodoro",,10,"Primi",1
+"Lasagna Verde",,10,"Primi",1
+"Lasagna Bolognese",,12,"Primi",1
+"Lasagna di Pesce",,12,"Primi","1, 2, 4"
+"Risotto al profumo di Mare",,12,"Primi","2, 4"
+"Spiedini di Gamberi e Calamari","(Porzione: 3 Pezzi, in aggiunta 3,00€ l'uno)",9,"Secondi","2,4"
+"Pinsa al Rosmarino ",,7,"Pinse",1
+"Pinsa Pomodoro e Mozzarella ",,9,"Pinse","1, 7"
+"Pinsa alla Rossini ",,12,"Pinse","1, 3, 7"
+"Pinsa Mortadella Burrata e Pistacchi ",,14,"Pinse","1, 7, 8"
+"Piadina Vuota",,2,"Piadine",
+"Piadina 1 Farcitura","Farciture disponibili: Prosciutto Cotto, Prosciutto Crudo, Bresaola, Mozzarella, Stracchino, Pomodoro, Rucola, Insalata",6.5,"Piadine",
+"Piadina 2 Farciture","Farciture disponibili: Prosciutto Cotto, Prosciutto Crudo, Bresaola, Mozzarella, Stracchino, Pomodoro, Rucola, Insalata",7,"Piadine",
+"Piadina 3 Farciture","Farciture disponibili: Prosciutto Cotto, Prosciutto Crudo, Bresaola, Mozzarella, Stracchino, Pomodoro, Rucola, Insalata",8,"Piadine",
+"Insalata di Pollo","Rucola, Petto di Pollo, Uva Sultanina, Pomodorini, Crostini di Pane",10,"Insalate",
+"Insalata Greca ","Rucola, Feta, Olive Nere, Cetrioli, Pomodorini",10,"Insalate",7
+"Insalata Gustosa ","Insalata, Songino, Rucola, Grana, Noci, Pere Williams",10,"Insalate","7, 8"
+"Insalata Classica ","Insalata Iceberg, Tonno, Uova Sode, Olive, Pomodorini",10,"Insalate","3, 4"
+"Insalata Vegetariana","Lattuga, Pomodorini, Carote, Cetrioli",5,"Insalate",
+"Macedonia di frutta",,4.5,"Desserts",
+"Sorbetto al Caffè / Limone Piccolo",,2.5,"Desserts",
+"Sorbetto al Caffè / Limone Grande",,3.5,"Desserts",
+"Calice di Bianchello","Alceo - Az. Bucchini, Bianchello 100%",5,"Vini al calice",
+"Calice di Passerina","Milia - Az. Cameli Irene, Passerina 100%",5,"Vini al calice",
+"Calice di Prosecco","Clandestino - Az. Girardi, Glera 100%, Prosecco",5,"Vini al calice",
+"Calice di Franciacorta","Franciacorta - Az. La Fioca, Chardonnay 80%, Pinot Nero 20%",7,"Vini al calice",
+"Birra alla spina piccola (20cl)",,3.5,"Birra",
+"Birra alla spina media (40cl)",,5,"Birra",
+"Birra Castello in Bottiglia (66cl)",,5,"Birra",
+"Caffè",,1.2,"Caffetteria",
+"Moretta",,2.5,"Caffetteria",
+"Alceo ","Az. Bucchini, Bianchello 100%",16,"Vini in Bottiglia",
+"Milia ","Az. Cameli Irene, Passerina 100%",18,"Vini in Bottiglia",
+"Gaico ","Az. Cameli Irene, Pecorino 100%",20,"Vini in Bottiglia",
+"Ippocampo ","Az. Lucesole, Verdicchio dei Castelli di Jesi 100%",20,"Vini in Bottiglia",
+"Canopi ","Az. Sandri, Chardonnay 100%",22,"Vini in Bottiglia",
+"Razer ","Az. Sandri, Gewurtztraminer 100%",25,"Vini in Bottiglia",
+"Clandestino ","Az. Girardi, Glera 100%, Prosecco",16,"Vini in Bottiglia",
+"Metodo Classico ","Az. Furlani, Chardonnay 80%, Pinot Nero 20%",25,"Vini in Bottiglia",
+"Franciacorta Brut ","Az. La Fioca, Chardonnay 80%, Pinot Nero 20%",35,"Vini in Bottiglia",
+"Rosso Frill ","Az. Sandri, Schiava Gentile 100%",18,"Vini in Bottiglia",
+"Spritz ","Prosecco, Aperol/Campari, soda",7,"Cocktails Classici",
+"Americano ","Vermouth rosso, Campari, soda",7,"Cocktails Classici",
+"Negroni ","Vermouth rosso, Campari, gin",8,"Cocktails Classici",
+"Daiquiri ","Rum, lime, zucchero",8,"Cocktails Classici",
+"Mai Tai","Rum mix, orange curaçao, orzata, lime",10,"Cocktails Classici",
+"Bramble ","Gin, liquore alle more, limone, zucchero",8,"Cocktails Classici",
+"Old Fashioned","Bourbon whiskey, angostura, zucchero",9,"Cocktails Classici",
+"Margarita","Tequila blanco, triple sec, lime",9,"Cocktails Classici",
+"Tommy's Margarita ","Tequila reposado, lime, sciroppo d’agave",9,"Cocktails Classici",
+"Sea Lover","Vodka, liquore alla vaniglia, limone",8,"Cocktails Speciali",
+"Macio Ment","Vodka, liquore alla menta",8,"Cocktails Speciali",
+"Peperoикa","Vodka, limone, sciroppo di peperone giallo, basilico",9,"Cocktails Speciali",
+"Bloody Mare","Vodka, pomodoro, limone, salsa Worchester, tabasco, spezie",9,"Cocktails Speciali",
+"May Day","Gin, liquore alla violetta, tonica",8,"Cocktails Speciali",
+"Basil Smash","Gin, limone, zucchero, basilico",8,"Cocktails Speciali",
+"Mint Julep Iced Tea","Bourbon whiskey, tè freddo, menta",9,"Cocktails Speciali",
+"Coccumber","Tequila blanco, lime, sciroppo di cocco, cetriolo",9,"Cocktails Speciali",
+"Mandorlita","Tequila reposado, orzata, lime",9,"Cocktails Speciali",
+"Storo, il Negroni con l’Alloro","Vermouth rosso, Campari, gin all’alloro",9,"Cocktails Speciali",
+"Beefeater",,8,"Gin Tonic",
+"Tanqueray",,8,"Gin Tonic",
+"Mare",,9,"Gin Tonic",
+"Malfy Pompelmo",,9,"Gin Tonic",
+"Malfy Arancia",,9,"Gin Tonic",
+"Tanqueray Ten",,9,"Gin Tonic",
+"Fulmine",,10,"Gin Tonic",
+"Bowler",,10,"Gin Tonic",
